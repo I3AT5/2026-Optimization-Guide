@@ -1,6 +1,4 @@
-Hello I am the Multi-Function Page. This groups all mods which focus on multiple areas of the game.
-| Mod | Category | Description | Impact |
-|---|---|---|---|
-| Embeddium | Rendering | Optimizes rendering | High |
-| FerriteCore | Memory | Reduces memory usage | Medium |
-| ModernFix | General | Various optimizations | High |
+| Mod Name | Category | Description | Performance Impact | Compatibility | Notes |
+|---|---|---|---|---|---|
+| Example Mod | Rendering | Improves rendering performance. | High | Compatible | Example note |
+| Example Mod 2 | Memory | Reduces memory usage. | Medium | Conditional | Requires testing |
